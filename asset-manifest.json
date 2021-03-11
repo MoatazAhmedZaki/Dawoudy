@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dawoudy/static/css/main.a48071f2.chunk.css",
+    "main.js": "/Dawoudy/static/js/main.3aa992da.chunk.js",
+    "main.js.map": "/Dawoudy/static/js/main.3aa992da.chunk.js.map",
+    "runtime-main.js": "/Dawoudy/static/js/runtime-main.b2006d39.js",
+    "runtime-main.js.map": "/Dawoudy/static/js/runtime-main.b2006d39.js.map",
+    "static/js/2.35fe996f.chunk.js": "/Dawoudy/static/js/2.35fe996f.chunk.js",
+    "static/js/2.35fe996f.chunk.js.map": "/Dawoudy/static/js/2.35fe996f.chunk.js.map",
+    "index.html": "/Dawoudy/index.html",
+    "precache-manifest.6e613c8eb95d45cd4d31d789a244938d.js": "/Dawoudy/precache-manifest.6e613c8eb95d45cd4d31d789a244938d.js",
+    "service-worker.js": "/Dawoudy/service-worker.js",
+    "static/css/main.a48071f2.chunk.css.map": "/Dawoudy/static/css/main.a48071f2.chunk.css.map",
+    "static/media/HomeCss.css": "/Dawoudy/static/media/homeHeader3.f70babb4.png",
+    "static/media/logo.png": "/Dawoudy/static/media/logo.798c24ea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2006d39.js",
+    "static/js/2.35fe996f.chunk.js",
+    "static/css/main.a48071f2.chunk.css",
+    "static/js/main.3aa992da.chunk.js"
+  ]
+}
